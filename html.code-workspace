@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"breadcrumbs.enabled": false,
+		"explorer.compactFolders": false,
+		"workbench.colorTheme": "Default Dark Modern",
+		"screencastMode.fontSize": 56
+	}
+}

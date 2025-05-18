@@ -1,0 +1,18 @@
+   {
+      "files.autoSave": "afterDelay",
+      "diffEditor.renderSideBySide": false,
+      "breadcrumbs.enabled": false,
+      "editor.minimap.enabled": false,
+      "[typescript]": {},
+      "C_Cpp.errorSquiggles": "disabled",
+      "editor.wordWrap": "on",
+      "editor.formatOnSave": true,
+      "explorer.compactFolders": false,
+      "material-icon-theme.folders.color": "#ef5350",
+      "workbench.colorTheme": "Default Dark Modern",
+      "editor.screenReaderAnnounceInlineSuggestion": true,
+      "eslint.autoFixOnSave": true,
+      "editor.tokenColorCustomizations": { "textMateRules": [{ "scope":"keyword", "settings": { "foreground": "#FF0000" } }] },
+      "search.exclude": { "**/node_modules": true },
+      "editor.autoSave": "onWindowChange"
+   }
