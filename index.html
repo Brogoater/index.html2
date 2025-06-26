@@ -147,8 +147,15 @@
     </script>
 
     <footer style="text-align:center;">
-        <h1>&copy;2025 Cybersecurity Wellbeing</h1>
+        //<h1>&copy;2025 – <span id="spanYear"></span> Cybersecurity Wellbeing</h1>
     </footer>
+
+    <script>
+        // Get the current year
+        var currentYear = new Date().getFullYear();
+        // Set the text content of the span element to the current year
+        document.getElementById("spanYear").textContent = currentYear;
+    </script>
 
 </body>
 
